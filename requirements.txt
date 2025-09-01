@@ -1,0 +1,4 @@
+langchain 
+openai 
+reportlab
+langchain-community
